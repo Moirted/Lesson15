@@ -1,0 +1,6 @@
+*.exe
+*.pdb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin
