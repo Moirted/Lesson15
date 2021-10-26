@@ -13,4 +13,7 @@ int DaysInYear(int);
 //
 int DaysInYearRange(int, int);
 
+//
+int SeconsInHours(int);
+
 #endif DATETIME_H
