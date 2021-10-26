@@ -11,8 +11,3 @@ bool IsLeapYear(int y)
 		return false;
 	}
 }
-
-int SecondsInMinute()
-{
-	return 60;
-}
