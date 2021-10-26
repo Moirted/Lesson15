@@ -38,7 +38,7 @@ int DaysInYear(int y)
 int DaysInYearRange(int y1, int y2)
 {
 	assert(y1 <= y2);
-	int res;
+	int res = 0;
 	for (int i = y1; i <= y2; i++)
 	{
 		res += DaysInYear(i);
